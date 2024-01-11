@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <h1>The world of stars!!!</h1>
+    <header>
+      <h2>Why stars are special</h2>
+      <p>Stars are special because they are the most beautiful things in the universe.
+    </header>
+    <img src="star.jpg">
+    <ol>
+      <li>
+        <a href="https://www.space.com/57-stars-formation-classification-and-constellations.html">Link to more stars info!</a>
+      </li>
+    
+    </ol>
+    <div>
+      <p>STARS</p>
+    </div>
+  </body>

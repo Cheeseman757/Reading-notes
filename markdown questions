@@ -1,0 +1,25 @@
+
+# What is Markdown?
+Markdown is a lightweight markup language that allows you to format plain text documents using simple and readable syntax
+
+## Why do we use Markdown?
+Markdown is used because it provides a simple and human-readable way to format text, making it easy to create well-structured documents without the need for complex HTML
+
+### What symbol will create a heading in Markdown?
+you can create headings using the hash symbol (#).
+
+How many do you need to create the largest heading?
+
+To create the largest heading in Markdown, you need one hash symbol (#). This is equivalent to an HTML <h1> element.
+
+How many do you need to create the smallest heading?
+To create the smallest heading in Markdown, you need six hash symbols (######). This is equivalent to an HTML
+
+#### When making text bold or italicized for emphasis, it is best practice to use which symbol?
+When making text bold, it is best practice to use two asterisks ** or two underscores __
+
+##### How do you create a link with Markdown?
+To create a link in Markdown, you can use square brackets [] 
+
+###### What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
+You can create an unordered (bulleted) list in Markdown using asterisks *, plus +, or hyphens

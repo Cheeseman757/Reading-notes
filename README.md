@@ -9,6 +9,7 @@ Growth mindset is the ability to have a broader vision when it comes to learning
 - Always keep trying
 - Embrace criticism
   
-
+#### About me
+My name is Jusitn Cheeseman and I am excited about coding! the link to my github profile is https://github.com/Cheeseman757/Reading-notes
 
 

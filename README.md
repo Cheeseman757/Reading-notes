@@ -3,18 +3,22 @@
 ## Explain “growth mindset” in your own words
 Growth mindset is the ability to have a broader vision when it comes to learning new things and keep a maluable outlook on how you can learn new things.
 
-### Include 3 reminders to yourself of how to keep yourself in a growth mindset
+Include 3 reminders to yourself of how to keep yourself in a growth mindset
 -Taking breaks when learning new things
 - Persaverance mindset
 - Always keep trying
 - Embrace criticism
   
-#### About me
+### About me
 My name is Jusitn Cheeseman and I am excited about coding!
+
+#### About this website
+This page is being used to help orbanize and catehrorize nots for coding class
+while being a pratice space 
 
 ##### Table of Contents
 
-###### Code 102 Reading Notes
+Code 102 Reading Notes
 1. [Topic 1](Code102/Topic1.md)
 2. [Topic 2](Code102/Topic2.md)
 3. [Topic 3](Code102/Topic3.md)

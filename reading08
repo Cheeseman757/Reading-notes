@@ -1,0 +1,11 @@
+What is an expression in JavaScript?
+In JavaScript, an expression is a piece of code that evaluates to a value
+
+Why would we use a loop in our code?
+Loops are used in programming to execute a block of code repeatedly until a specified condition is met.
+
+When does a for loop stop executing?
+A for loop in JavaScript stops executing when its stopping condition is met
+
+How many times will a while loop execute?
+The number of times a while loop executes depends on its condition. A while loop continues to execute its code block as long as the condition remains true. The exact number of iterations depends on how the condition is modified during each loop iteration. If the condition never becomes false, the loop can theoretically run indefinitely, creating an infinite loop. It's crucial to ensure that the loop has a reachable end condition to prevent such scenarios.

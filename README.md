@@ -10,6 +10,34 @@ Growth mindset is the ability to have a broader vision when it comes to learning
 - Embrace criticism
   
 #### About me
-My name is Jusitn Cheeseman and I am excited about coding! the link to my github profile is https://github.com/Cheeseman757/Reading-notes
+My name is Jusitn Cheeseman and I am excited about coding!
+
+#### Table of Contents
+Notes/
+├── 102/
+│   ├── Topic1.html
+│   ├── Topic2.html
+│   ├── Topic3.html
+│   ├── Topic4.html
+│   ├── Topic5.html
+│   ├── Topic6.html
+│   ├── Topic7.html
+│   └── Topic8.html
+└── 201/
+    ├── Topic1.html
+    ├── Topic2.html
+    ├── Topic3.html
+    ├── Topic4.html
+    ├── Topic5.html
+    ├── Topic6.html
+    ├── Topic7.html
+    ├── Topic8.html
+    ├── Topic9.html
+    ├── Topic10.html
+    ├── Topic11.html
+    ├── Topic12.html
+    ├── Topic13.html
+    ├── Topic14.html
+    └── Topic15.html
 
 

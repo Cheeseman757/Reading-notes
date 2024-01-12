@@ -27,7 +27,7 @@ My name is Jusitn Cheeseman and I am excited about coding!
 
 
 #### Table of Contents
--[Topic 1](example1.md).
+--[Topic 1](example1.md).
 -[Topic 2](example1.md).
 -[Topic 3](example1.md).
 -[Topic 4](example1.md).

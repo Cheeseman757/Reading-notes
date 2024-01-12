@@ -12,6 +12,20 @@ Growth mindset is the ability to have a broader vision when it comes to learning
 #### About me
 My name is Jusitn Cheeseman and I am excited about coding!
 
+201_notes/
+├── Git_Basics.md
+├── Git_Workflow.md
+├── Branching_and_Merging.md
+├── Git_Remote_Repositories.md
+├── Git_Commands_Reference.md
+├── Collaboration_with_Git.md
+├── Git_Tips_and_Tricks.md
+└── Git_Troubleshooting.md
+
+
+
+
+
 #### Table of Contents
 -[Topic 1](example1.md).
 -[Topic 2](example1.md).

@@ -24,7 +24,8 @@ My name is Jusitn Cheeseman and I am excited about coding!
 7. [Topic 7](Code102/Topic7.md)
 8. [Topic 8](Code102/Topic8.md)
 
-######## Code 201 Reading Notes
+Code 201 Reading Notes
+
 1. [Topic 1](Code201/Topic1.md)
 2. [Topic 2](Code201/Topic2.md)
 3. [Topic 3](Code201/Topic3.md)

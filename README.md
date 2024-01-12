@@ -14,6 +14,7 @@ My name is Jusitn Cheeseman and I am excited about coding!
 
 #### Table of Contents
 102 NOTES
+
 [Topic 1](example1.md).
  [Topic 2](example1.md).
   [Topic 3](example1.md).

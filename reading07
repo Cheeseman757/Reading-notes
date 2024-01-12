@@ -1,0 +1,13 @@
+What is control flow? 
+The control flow is the order that a computer executes statements for a script.
+
+What is a JavaScript function?
+A JavaScript function is a block of code designed to perform a particular task.
+
+What does it mean to invoke - or call - a function? 
+The code inside the function will execute when “something” invokes (calls) the function 
+  
+What are the parenthesis () for when you define a function?
+The parentheses include different parameters when organizing a function.
+
+ 

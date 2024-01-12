@@ -1,0 +1,13 @@
+What are variables in JavaScript?
+Variables are used to store and manage data or values within a program. Variables allow you to store information that can be used, manipulated, and updated throughout your code. 
+
+
+What does it mean to declare a variable?
+To declare a variable means to create a new variable with a specific name and optionally assign an initial value to it
+
+What is an “assignment” operator, and what does it do?
+The "assignment" operator in JavaScript is the = symbol. It is used to assign a value to a variable
+
+
+What is information received from the user called?
+"Information received from the user" is typically referred to as user input.

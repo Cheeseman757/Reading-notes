@@ -14,7 +14,7 @@ My name is Jusitn Cheeseman and I am excited about coding!
 
 #### Table of Contents
 Notes/
-├── 102/
+102/
 │   ├── Topic1.html
 │   ├── Topic2.html
 │   ├── Topic3.html
@@ -23,7 +23,7 @@ Notes/
 │   ├── Topic6.html
 │   ├── Topic7.html
 │   └── Topic8.html
-└── 201/
+ 201/
     ├── Topic1.html
     ├── Topic2.html
     ├── Topic3.html

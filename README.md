@@ -13,14 +13,6 @@ Growth mindset is the ability to have a broader vision when it comes to learning
 My name is Jusitn Cheeseman and I am excited about coding!
 
 #### Table of Contents
-102_notes/
-├── Topic1.html
-├── Topic2.html
-├── Topic3.html
-├── Topic4.html
-├── Topic5.html
-├── Topic6.html
-├── Topic7.html
-└── Topic8.html
+[Example 1](example1.md).
 
 

@@ -1,14 +1,5 @@
 # reading-notes
 
-## Explain “growth mindset” in your own words
-Growth mindset is the ability to have a broader vision when it comes to learning new things and keep a maluable outlook on how you can learn new things.
-
-Include 3 reminders to yourself of how to keep yourself in a growth mindset
--Taking breaks when learning new things
-- Persaverance mindset
-- Always keep trying
-- Embrace criticism
-  
 ### About me
 My name is Jusitn Cheeseman and I am excited about coding!
 
@@ -28,7 +19,7 @@ Code 102 Reading Notes
 7. [Topic 7](Code102/Topic7.md)
 8. [Topic 8](Code102/Topic8.md)
 
-Code 201 Reading Notes
+Code 201 - Foundations of Software Development
 
 1. [Topic 1](Code201/Topic1.md)
 2. [Topic 2](Code201/Topic2.md)
@@ -45,3 +36,23 @@ Code 201 Reading Notes
 13. [Topic 13](Code201/Topic13.md)
 14. [Topic 14](Code201/Topic14.md)
 15. [Topic 15](Code201/Topic15.md)
+
+Code 301 - Intermediate Software Development
+
+1. [Topic 1](Code301/Topic1.md)
+2. [Topic 2](Code301/Topic2.md)
+3. [Topic 3](Code301/Topic3.md)
+4. [Topic 4](Code301/Topic4.md)
+5. [Topic 5](Code301/Topic5.md)
+6. [Topic 6](Code301/Topic6.md)
+7. [Topic 7](Code301/Topic7.md)
+8. [Topic 8](Code301/Topic8.md)
+9. [Topic 9](Code301/Topic9.md)
+10. [Topic 10](Code301/Topic10.md)
+11. [Topic 11](Code301/Topic11.md)
+12. [Topic 12](Code301/Topic12.md)
+13. [Topic 13](Code301/Topic13.md)
+14. [Topic 14](Code301/Topic14.md)
+15. [Topic 15](Code301/Topic15.md)
+
+    

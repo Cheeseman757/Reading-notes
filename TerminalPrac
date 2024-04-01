@@ -1,0 +1,32 @@
+Practice in terminal 
+
+The Command Line:
+
+Definition: The command line, or terminal, is a text-based interface for interacting with a computer's operating system. It allows users to execute commands to perform tasks and manage files and directories.
+Functionality: Users input commands, which the operating system interprets and executes. It provides flexibility and efficiency in performing tasks, especially for advanced users and system administrators.
+Access: To access the command line, you can open a terminal emulator on your computer, such as Terminal on macOS or Command Prompt on Windows, or SSH into a remote server.
+Basic Navigation:
+
+Linux Directory System: Linux organizes files and directories in a hierarchical structure, with the root directory ("/") at the top. Directories are separated by slashes ("/"), and ".." represents the parent directory.
+Navigation Commands: Use "cd" to change directories, "ls" to list directory contents, "pwd" to print the current working directory, and "mkdir" to create directories.
+Examples: Navigate to the home directory with "cd ~", list files in a directory with "ls -l", and create a new directory with "mkdir my_directory".
+More About Files:
+
+Characteristics: In Linux, files and directories have various properties, including permissions (read, write, execute), ownership (user and group), size, and creation/modification timestamps.
+Hidden Files: Files preceded by a dot (".") are hidden by default and are often configuration files or directories.
+File Types: Linux identifies file types using file extensions and file metadata rather than relying solely on extensions, as in Windows.
+Manual Pages:
+
+Accessing Manuals: Use the "man" command followed by the name of the command or topic to access its manual page. For example, "man ls" displays the manual for the "ls" command.
+Sections: Manuals are divided into sections, such as commands (section 1), system calls (section 2), and library functions (section 3). Use "man [section] [command]" to specify the section.
+Navigation: Navigate through manual pages using the arrow keys, page up/down keys, or searching with "/" followed by a search term.
+File Manipulation:
+
+Creation and Removal: Use "touch" to create empty files, "rm" to remove files, and "rmdir" to remove directories.
+Renaming and Moving: Rename files with "mv [old_name] [new_name]" and move files or directories with "mv [source] [destination]".
+Copying: Copy files with "cp [source] [destination]" and directories with "cp -r [source] [destination]" for recursive copying.
+Cheat Sheet:
+
+Quick Reference: Provides essential commands and concepts for navigating and managing files and directories in a Linux environment.
+Helpful Reminders: Helps users quickly recall commands and techniques for efficient command line usage.
+Key Takeaways: Summarizes basic navigation, file manipulation, and accessing manual pages for effective command line usage.

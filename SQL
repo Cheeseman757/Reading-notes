@@ -1,0 +1,11 @@
+SQL NOTES
+Relational databases are a cornerstone of modern data management, organizing data into tables with rows and columns, following the relational model proposed by E.F. Codd. SQL (Structured Query Language) serves as the standard language for interacting with these databases. It encompasses Data Definition Language (DDL) for defining database structures, Data Manipulation Language (DML) for managing data, Data Control Language (DCL) for access control, and Data Query Language (DQL) for retrieving data.
+
+SQL queries enable users to retrieve, manipulate, and manage data effectively. Key components include SELECT statements for data retrieval, JOIN operations for combining data from multiple tables, subqueries for complex filtering, aggregation functions for calculations, and set operations for combining or comparing result sets. Views provide a virtual representation of data, simplifying complex queries.
+
+Effective database design involves Entity-Relationship (ER) modeling, normalization to minimize redundancy and dependency, and denormalization for performance optimization when necessary. Advanced topics include transaction management for ensuring data integrity, indexing for query performance optimization, and security considerations for access control. Overall, relational databases and SQL form the foundation of robust and efficient data management systems in various domains.
+
+
+
+
+
